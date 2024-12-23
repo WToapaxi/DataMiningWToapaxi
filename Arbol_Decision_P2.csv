@@ -1,0 +1,13 @@
+Color del Agua,Olor,Residuos,Pres Contam,Niv pH,Respuesta
+Claro,Sin olor,No,No,Normal,Apta
+Claro,Sin olor,No,No,Normal,Apta
+Claro,Desagradable,No,No,Bajo,No apta
+Turbio,Sin olor,Si,Si,Alto,No apta
+Turbio,Desagradable,Si,Si,Bajo,No apta
+Turbio,Desagradable,Si,Si,Bajo,No apta
+Claro,Sin olor,Si,No,Normal,Apta
+Claro,Sin olor,No,No,Alto,No apta
+Claro,Desagradable,Si,Si,Alto,No apta
+Turbio,Sin olor,Si,Si,Normal,No apta
+Turbio,Sin olor,No,No,Bajo,No apta
+Claro,Desagradable,No,Si,Bajo,No apta
